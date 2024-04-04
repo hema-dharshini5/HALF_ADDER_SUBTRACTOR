@@ -54,7 +54,7 @@ Figure -02 HALF Subtractor
 
 Developed by: RegisterNumber: 212223220034*/
 
-**Half_adder**
+*Half_adder*
 module halfadd_top(a,b,sum,carry);
 input a,b;
 output sum,carry; 
@@ -62,7 +62,7 @@ output sum,carry;
  assign carry = a & b;
 endmodule
 
-**Half_subtractor**
+*Half_subtractor*
 module halfsub_top(a,b,D,Bo);
 input a,b;
 output D,Bo; // Outputs sum and carry for half adder:Outputs difference D,Borrow Bo for half subtractor
@@ -72,7 +72,16 @@ endmodule
 
 
 **RTL Schematic**
+**half adder**
+![Screenshot 2024-04-04 085958](https://github.com/hema-dharshini5/HALF_ADDER_SUBTRACTOR/assets/147117728/f27ece78-e6af-4574-a15b-cf2f578df5c6)
+**half subtracter**
+![Screenshot 2024-04-04 090022](https://github.com/hema-dharshini5/HALF_ADDER_SUBTRACTOR/assets/147117728/a370a416-b5ae-4d89-8340-b93d91f3fca3)
 
 **Output/TIMING Waveform**
+**half adder**
+![Screenshot 2024-04-04 090039](https://github.com/hema-dharshini5/HALF_ADDER_SUBTRACTOR/assets/147117728/31eeae54-a968-4ab1-bab9-5448d906e067)
+**half subtracter**
+![Screenshot 2024-04-04 090102](https://github.com/hema-dharshini5/HALF_ADDER_SUBTRACTOR/assets/147117728/efa4bbb8-dd0e-4f16-8b13-fc628546b493)
 
 **Result:**
+ The code is excecuted successfully.
