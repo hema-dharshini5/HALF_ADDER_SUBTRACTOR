@@ -72,15 +72,15 @@ endmodule
 ```
 
 **RTL Schematic**
-**half adder**
+**Half adder**
 ![Screenshot 2024-04-04 085958](https://github.com/hema-dharshini5/HALF_ADDER_SUBTRACTOR/assets/147117728/f27ece78-e6af-4574-a15b-cf2f578df5c6)
-**half subtracter**
+**Half subtracter**
 ![Screenshot 2024-04-04 090022](https://github.com/hema-dharshini5/HALF_ADDER_SUBTRACTOR/assets/147117728/a370a416-b5ae-4d89-8340-b93d91f3fca3)
 
 **Output/TIMING Waveform**
-**half adder**
+**Half adder**
 ![Screenshot 2024-04-04 090039](https://github.com/hema-dharshini5/HALF_ADDER_SUBTRACTOR/assets/147117728/31eeae54-a968-4ab1-bab9-5448d906e067)
-**half subtracter**
+**Half subtracter**
 ![Screenshot 2024-04-04 090102](https://github.com/hema-dharshini5/HALF_ADDER_SUBTRACTOR/assets/147117728/efa4bbb8-dd0e-4f16-8b13-fc628546b493)
 
 **Result:**
